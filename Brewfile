@@ -80,7 +80,6 @@ brew yuicompressor
 brew zstd
 
 tap homebrew/cask
-cask calibre
 cask chai
 cask clashx
 cask docker
